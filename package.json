@@ -1,0 +1,31 @@
+{
+  "name": "liri_project",
+  "version": "1.0.0",
+  "description": "## Liri Bot Homework #10 Project",
+  "main": "key.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAlidina/LIRI_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SAlidina/LIRI_Project/issues"
+  },
+  "homepage": "https://github.com/SAlidina/LIRI_Project#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0",
+    "fs": "0.0.1-security",
+    "keys": "^0.1.2",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {}
+}
