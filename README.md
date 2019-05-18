@@ -52,5 +52,4 @@ If the user doesn't type a movie in, the program will output data for the movie 
 
 
 **Demonstration**
-![Demonstration Gif]
-(WorkingGif.gif)
+![Demonstration Gif](WorkingGif.gif)
